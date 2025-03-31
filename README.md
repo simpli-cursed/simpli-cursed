@@ -1,7 +1,7 @@
 ## Hello! I'm Nate 👋
 I'm currently learning how to code and am intrested in a career in computer science.
 
-If you know me thats cool and if you don't or found me by other means manybe I could get to know you. 😄
+If you know me thats cool and if you don't or found me by other means maybe I could get to know you. 😄
 
 
 <!--
